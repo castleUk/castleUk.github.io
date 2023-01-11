@@ -1,11 +1,12 @@
 ---
 permalink: /about/
 title: "자기소개"
+layout: single
 toc: true
 toc_sticky: true
-toc_label: "MYSELF"
+toc_label: "My self"
 ---
 
 ![icon](/assets/logo.ico/apple-icon-120x120.png)
 
-원하는 자기소개 상세 내용
+# 1. 

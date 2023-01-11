@@ -1,24 +1,14 @@
 # main links
 main:
-  #- title: "Home"
-  #  url: "/"
-  - title: "Introduce"
-    url: /about/
-  - title: "Category"
-    url: "/categories/"
+  - title : "Categories"
+    url: /categories/
+  - title: "JAVA"
+    url: /categories/java/
+  - title: "Spring"
+    url: /categories/spring/
+  - title: "Project"
+    url: /categories/project/
   - title: "Tags"
     url: /tags/
-
-
-sidebar-category:
-  - title: "Programming"
-    children:
-      - title: "Java"
-        url: "/java"
-      - title: "Spring"
-        url:  "/spring"
-      - title: "Project"
-        url:  "/project"
-      - title: "etc"
-        url:  "/etc"
-
+  - title: "About"
+    url: /about/

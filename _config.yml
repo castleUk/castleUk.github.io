@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "castleuk.github.io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/castleUk"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -287,10 +287,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
-       sidebar:                  # 추가한 부분
+    sidebar:                  # 추가한 부분
         nav: "sidebar-category" # 추가한 부분
   
   # _pages                      : 해당 하단 영역이 새로 추가되었습니다.
