@@ -1,4 +1,5 @@
 ---
+published: true
 title : "[FreezerProject] JSON -> CSV 후처리"
 categories:
   - Project
