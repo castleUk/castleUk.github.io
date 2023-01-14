@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "CastleUk 개발자 Blog"
+title                    : "CastleUk dev Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "성욱(CastleUk)"
-description              : "An amazing website."
+description              : "CastleUk의 Java인생기"
 url                      : "https://castleUk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/castleUk/castleUk.github.io.git"
