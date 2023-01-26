@@ -7,6 +7,9 @@ categories:
 tags:
   - Spring
   - JPA
+
+sidebar:
+    nav: "sidebar-category"
 ---
 
 # 1. 들어가며

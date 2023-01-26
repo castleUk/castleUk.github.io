@@ -8,6 +8,9 @@ tags:
   - Spring
   - MariaDB
   - Project
+
+sidebar:
+    nav: "sidebar-category"
 ---
 
 # 들어가며
