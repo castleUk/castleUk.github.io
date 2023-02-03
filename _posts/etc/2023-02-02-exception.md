@@ -2,7 +2,7 @@
 published: true
 title : "exception rollback(Checked, Unchecked Exception)의 잘못된 이해"
 categories:
-  - Java
+  - etc
 
 tags:
   - Java

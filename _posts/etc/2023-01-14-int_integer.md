@@ -2,7 +2,7 @@
 published: true
 title : "Int와 Integer 차이가 뭘까?"
 categories:
-  - Java
+  - etc
 
 tags:
   - Spring
