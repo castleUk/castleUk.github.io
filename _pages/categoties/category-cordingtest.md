@@ -1,9 +1,9 @@
 ---
-title: "CordingTest"
+title: "Cordingtest"
 permalink: /categories/cordingtest/
 layout: category
 author_profile: true
-taxonomy: CordingTest
+taxonomy: Cordingtest
 sidebar:
     nav: "sidebar-category"
 ---
