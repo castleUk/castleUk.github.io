@@ -14,9 +14,9 @@ sidebar-category:
           url: /categories/project/
           category: "Project"
 
-        - title: "CodingTest"
+        - title: "Codingtest"
           url: /categories/codingtest/
-          category: "CodingTest"
+          category: "Codingtest"
 
         - title : "etc"
           url: /categories/etc/
