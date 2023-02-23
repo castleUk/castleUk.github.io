@@ -10,6 +10,10 @@ sidebar-category:
           url: /categories/spring/
           category: "Spring"
 
+        - title: "Kotlin"
+          url: /categories/kotling/
+          category: "Kotlin"
+
         - title: "Project"
           url: /categories/project/
           category: "Project"
