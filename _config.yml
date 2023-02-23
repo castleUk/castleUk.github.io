@@ -25,7 +25,7 @@ description              : "CastleUk의 Java인생기"
 url                      : "https://castleUk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/castleUk/castleUk.github.io.git"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/logo.png"
 logo                     : "/assets/images/logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 future : true
