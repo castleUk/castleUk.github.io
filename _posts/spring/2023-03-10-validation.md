@@ -401,7 +401,10 @@ public class ItemServiceApplication implements WebMvcConfigurer {
 
 &nbsp; Error Map부터시작해서 BindingResult 그리고 메시지, 축약 버전 까지 업그레이드 과정을 하나하나 공부하며 정리해보았습니다.
 머릿속에 멤돌던 막연한 지식들을 정리할수 있는 기회가 되었으면 좋겠습니다.
-오타나 틀린부분이 있을수도 있으니, 양해 바랍니다.
+<br>
+<br>
+
+Bean Validation과 같이 더 나아간 이야기를 다음 기회에 또 포스팅 하겠습니다.  진짜 끝!
 
 
 
