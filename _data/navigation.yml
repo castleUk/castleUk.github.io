@@ -1,27 +1,31 @@
 # main links
 sidebar-category:
   - title: "💻 Programming"
-    children:       
-        - title: "Java"
-          url: /categories/java/
-          category: "Java"
+    children:
+      - title: "Java"
+        url: /categories/java/
+        category: "Java"
 
-        - title: "Spring"
-          url: /categories/spring/
-          category: "Spring"
+      - title: "Spring"
+        url: /categories/spring/
+        category: "Spring"
 
-        - title: "Kotlin"
-          url: /categories/kotlin/
-          category: "Kotlin"
+      - title: "Kotlin"
+        url: /categories/kotlin/
+        category: "Kotlin"
 
-        - title: "Project"
-          url: /categories/project/
-          category: "Project"
+      - title: "Script"
+        url: /categories/script/
+        category: "Script"
 
-        - title: "코딩테스트"
-          url: /categories/코딩테스트/
-          category: "코딩테스트"
+      - title: "Project"
+        url: /categories/project/
+        category: "Project"
 
-        - title : "etc"
-          url: /categories/etc/
-          category: "etc"
+      - title: "코딩테스트"
+        url: /categories/코딩테스트/
+        category: "코딩테스트"
+
+      - title: "etc"
+        url: /categories/etc/
+        category: "etc"
